@@ -21,7 +21,7 @@ Wiki page: [RM401](../../../../PAGES/RM401.md)
 - **Closed boxes:** 14
 - **Wiring (first pass):** 199 connected wire groups from 790 runs
 
-Every curve, box, word and wire group: [19xx - RM401 - 401-02-004 - NOISE SUPPRESSOR SYSTEM SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20RM401%20-%20401-02-004%20-%20NOISE%20SUPPRESSOR%20SYSTEM%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - RM401 - 401-02-004 - NOISE SUPPRESSOR SYSTEM SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - RM401 - 401-02-004 - NOISE SUPPRESSOR SYSTEM SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20RM401%20-%20401-02-004%20-%20NOISE%20SUPPRESSOR%20SYSTEM%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - RM401 - 401-02-004 - NOISE SUPPRESSOR SYSTEM SCHEMATIC (traced).dxf`).
 
 ## Full text
 

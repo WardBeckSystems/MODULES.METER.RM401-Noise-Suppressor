@@ -19,7 +19,7 @@ Wiki page: [RM401](../../../../PAGES/RM401.md)
 - **Circles and arcs:** 13 circles, 0 arcs; largest r 3.9 @ (159.7, 102.0), r 3.9 @ (198.9, 77.1), r 3.9 @ (159.3, 76.8), r 3.9 @ (292.3, 67.4)
 - **Closed boxes:** 27
 
-Every curve, box, word and wire group: [19xx - RM401 - 131-06-001 - COMPONENT LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20RM401%20-%20131-06-001%20-%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `19xx - RM401 - 131-06-001 - COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - RM401 - 131-06-001 - COMPONENT LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20RM401%20-%20131-06-001%20-%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `19xx - RM401 - 131-06-001 - COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

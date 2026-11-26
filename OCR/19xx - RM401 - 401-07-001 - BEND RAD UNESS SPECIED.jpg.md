@@ -19,7 +19,7 @@ Wiki page: [RM401](../../../../PAGES/RM401.md)
 - **Circles and arcs:** 16 circles, 0 arcs; largest r 3.2 @ (224.6, 186.0), r 3.2 @ (82.4, 173.1), r 3.1 @ (119.5, 172.9), r 3.1 @ (93.2, 173.1)
 - **Closed boxes:** 22
 
-Every curve, box, word and wire group: [19xx - RM401 - 401-07-001 - BEND RAD UNESS SPECIED (traced).json](../SCHEMATICS/19xx%20-%20RM401%20-%20401-07-001%20-%20BEND%20RAD%20UNESS%20SPECIED%20(traced).json) (the CAD file: `19xx - RM401 - 401-07-001 - BEND RAD UNESS SPECIED (traced).dxf`).
+Every curve, box, word and wire group: [19xx - RM401 - 401-07-001 - BEND RAD UNESS SPECIED (traced).json](../SCHEMATICS/19xx%20-%20RM401%20-%20401-07-001%20-%20BEND%20RAD%20UNESS%20SPECIED%20%28traced%29.json) (the CAD file: `19xx - RM401 - 401-07-001 - BEND RAD UNESS SPECIED (traced).dxf`).
 
 ## Full text
 

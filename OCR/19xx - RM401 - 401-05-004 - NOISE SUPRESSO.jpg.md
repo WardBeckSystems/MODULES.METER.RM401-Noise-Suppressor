@@ -20,7 +20,7 @@ Wiki page: [RM401](../../../../PAGES/RM401.md)
 - **Closed boxes:** 22
 - **Dots (junctions):** 4
 
-Every curve, box, word and wire group: [19xx - RM401 - 401-05-004 - NOISE SUPRESSO (traced).json](../MECHANICAL/19xx%20-%20RM401%20-%20401-05-004%20-%20NOISE%20SUPRESSO%20(traced).json) (the CAD file: `19xx - RM401 - 401-05-004 - NOISE SUPRESSO (traced).dxf`).
+Every curve, box, word and wire group: [19xx - RM401 - 401-05-004 - NOISE SUPRESSO (traced).json](../MECHANICAL/19xx%20-%20RM401%20-%20401-05-004%20-%20NOISE%20SUPRESSO%20%28traced%29.json) (the CAD file: `19xx - RM401 - 401-05-004 - NOISE SUPRESSO (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [RM401](../../../../PAGES/RM401.md)
 - **Words (OCR):** 56 in 48 lines: NOTES -(UNLESS · OtheRwise   SPECIFIED) · ALL REsISTOR VALUES ARE · ALL capaciTOR VALUES · MicROFARADS · LAST REFERENCE DESIGNATIOnS;-Ti CR4,Qi,Czo, · RZO 22 · ZN4923 · Tcox · R26 · 2N3645 · 4700
 - **Wiring (first pass):** 72 connected wire groups from 548 runs; labelled ends: 176 mm → Tcox; 162 mm → 50/251, R4O, 470; 159 mm → Tcox, 150, 76; 153 mm → 4700, 2N3569, R2e_, 2N3645; 141 mm → ionol, FDz3651
 
-Every curve, box, word and wire group: [19xx - RM401 - 401-02-001 - AUDIO AMPLIFIER MODULE TYPE (traced).json](../SCHEMATICS/19xx%20-%20RM401%20-%20401-02-001%20-%20AUDIO%20AMPLIFIER%20MODULE%20TYPE%20(traced).json) (the CAD file: `19xx - RM401 - 401-02-001 - AUDIO AMPLIFIER MODULE TYPE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - RM401 - 401-02-001 - AUDIO AMPLIFIER MODULE TYPE (traced).json](../SCHEMATICS/19xx%20-%20RM401%20-%20401-02-001%20-%20AUDIO%20AMPLIFIER%20MODULE%20TYPE%20%28traced%29.json) (the CAD file: `19xx - RM401 - 401-02-001 - AUDIO AMPLIFIER MODULE TYPE (traced).dxf`).
 
 ## Full text
 
