@@ -1,0 +1,74 @@
+{
+ "drawing": "Modules/METER/RM401/MECHANICAL/19xx - RM401 - 401-05-004 - NOISE SUPRESSO.jpg",
+ "version": 1,
+ "trace": "_traces/21a1b6c33a4df9dd.svg",
+ "sheet": {
+  "number": "401-05-004",
+  "title": "Noise Supresso",
+  "dtype": "05",
+  "type": "assembly",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 270,
+  "px": [2000, 917],
+  "mm": [431.8, 198.0],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 431.9, 196.7],
+ "outlines": {
+  "line": {"rings": 1143, "straight": {"n": 10227, "mm": 13883.9}, "curved": {"n": 1677, "mm": 2173.6}},
+  "text": {"rings": 93, "straight": {"n": 546, "mm": 523.9}, "curved": {"n": 194, "mm": 245.6}}
+ },
+ "circles": [
+  {"c": [389.9, 150.5], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [390.3, 43.9], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [153.2, 109.9], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [142.5, 48.8], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [143.9, 87.5], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [356.5, 107.1], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [111.3, 48.4], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [351.4, 4.6], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [348.5, 4.7], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [318.1, 71.0], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4}
+ ],
+ "boxes": [
+  {"mm": [383.4, 38.2, 396.6, 156.1], "w": 13.2, "h": 117.9, "from": "ring"},
+  {"mm": [345.4, 80.7, 351.7, 126.5], "w": 6.3, "h": 45.8, "from": "ring"},
+  {"mm": [168.4, 111.2, 170.6, 117.2], "w": 2.2, "h": 6.0, "from": "ring"},
+  {"mm": [322.7, 104.7, 325.6, 114.2], "w": 2.9, "h": 9.5, "from": "ring"},
+  {"mm": [155.2, 103.0, 157.6, 105.6], "w": 2.4, "h": 2.6, "from": "ring"},
+  {"mm": [351.9, 100.4, 355.8, 102.8], "w": 3.9, "h": 2.4, "from": "ring"},
+  {"mm": [261.5, 93.9, 283.9, 101.3], "w": 22.5, "h": 7.3, "from": "ring"},
+  {"mm": [291.9, 93.9, 314.4, 101.3], "w": 22.5, "h": 7.3, "from": "ring"},
+  {"mm": [351.9, 97.6, 356.2, 100.0], "w": 4.3, "h": 2.4, "from": "ring"},
+  {"mm": [253.3, 85.3, 283.7, 93.8], "w": 30.4, "h": 8.5, "from": "ring"},
+  {"mm": [290.6, 79.7, 314.4, 85.1], "w": 23.7, "h": 5.4, "from": "ring"},
+  {"mm": [153.2, 81.0, 161.5, 83.8], "w": 8.3, "h": 2.8, "from": "ring"},
+  {"mm": [351.9, 80.5, 356.4, 83.6], "w": 4.5, "h": 3.0, "from": "ring"},
+  {"mm": [290.6, 75.3, 314.4, 79.5], "w": 23.7, "h": 4.1, "from": "ring"},
+  {"mm": [315.9, 1.5, 406.8, 29.6], "w": 90.9, "h": 28.1, "from": "ring"},
+  {"mm": [316.3, 22.9, 406.3, 28.9], "w": 90.0, "h": 6.0, "from": "ring"},
+  {"mm": [345.7, 24.6, 347.8, 27.4], "w": 2.2, "h": 2.8, "from": "ring"},
+  {"mm": [316.3, 7.8, 406.1, 23.2], "w": 89.8, "h": 15.4, "from": "ring"},
+  {"mm": [368.3, 2.0, 406.1, 8.0], "w": 37.8, "h": 6.0, "from": "ring"},
+  {"mm": [327.5, 1.9, 367.9, 7.8], "w": 40.4, "h": 5.8, "from": "ring"},
+  {"mm": [316.3, 1.9, 327.1, 7.6], "w": 10.8, "h": 5.6, "from": "ring"},
+  {"mm": [320.4, 3.2, 322.6, 6.3], "w": 2.2, "h": 3.0, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [
+  {"c": [379.8, 195.0], "r": 0.7, "lines": 0},
+  {"c": [165.0, 71.2], "r": 1.2, "lines": 0},
+  {"c": [226.0, 71.1], "r": 1.2, "lines": 0},
+  {"c": [134.1, 35.6], "r": 1.0, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** assembly 401-05-004, size B (assumed) 432 × 198 mm, 2000 × 917 px traced (0.216 mm/px), turned 270°",
+  "- **Ink extent:** 0–432 mm across, 0–197 mm up",
+  "- **Outlines:** line 1,143 rings, 10,227 straight (13,884 mm) / 1,677 curved (2,174 mm); text 93 rings, 546 straight (524 mm) / 194 curved (246 mm)",
+  "- **Circles and arcs:** 10 circles, 0 arcs; largest r 2.2 @ (389.9, 150.5), r 2.2 @ (390.3, 43.9), r 1.9 @ (153.2, 109.9), r 1.8 @ (142.5, 48.8)",
+  "- **Closed boxes:** 22",
+  "- **Dots (junctions):** 4"
+ ]
+}
