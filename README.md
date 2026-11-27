@@ -21,6 +21,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNEVGODl0VkRRLUU/view?resourcekey=0-IVjwYfYrFf0le5f4LSl5nQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNEVGODl0VkRRLUU&resourcekey=0-IVjwYfYrFf0le5f4LSl5nQ" width="240" alt="19xx - RM401 - 401-05-004 - NOISE SUPRESSO.jpg"></a><br><sub>19xx - RM401 - 401-05-004 - NOISE SUPRESSO · <a href="MECHANICAL/19xx%20-%20RM401%20-%20401-05-004%20-%20NOISE%20SUPRESSO%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/RM401.stl`](MECHANICAL/RM401.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=RM401)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (assumed: 1.6" x 7" x 6.5", the common module)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/RM401 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/RM401.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
