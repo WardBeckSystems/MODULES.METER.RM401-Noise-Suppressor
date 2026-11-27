@@ -1,16 +1,16 @@
-# RM401 · Meter
+# RM401 Noise Suppressor · Meter
 
 Ward-Beck Systems RM401. Wiki page: [RM401 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/RM401.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 28 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 0 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 12 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 29 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 13 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 20 |
 
 ## Mechanical
@@ -20,15 +20,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNEVGODl0VkRRLUU/view?resourcekey=0-IVjwYfYrFf0le5f4LSl5nQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNEVGODl0VkRRLUU&resourcekey=0-IVjwYfYrFf0le5f4LSl5nQ" width="240" alt="19xx - RM401 - 401-05-004 - NOISE SUPRESSO.jpg"></a><br><sub>19xx - RM401 - 401-05-004 - NOISE SUPRESSO · <a href="MECHANICAL/19xx%20-%20RM401%20-%20401-05-004%20-%20NOISE%20SUPRESSO%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-## 3-D model
-
-[`MECHANICAL/RM401.stl`](MECHANICAL/RM401.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=RM401)
-
-- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (assumed: 1.6" x 7" x 6.5", the common module)
-- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/RM401 - front panel.svg`)
-- no drawing of the front panel: the panel is blank
-- Made by `tools/module_models.py` (→ `MECHANICAL/RM401.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -59,6 +50,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - RM401 - 401-02-002 - PACITOR VALUES ARE MICROFARADS LAST REFERENCE DESIGNATIONS.kicad_sch](KICAD/19xx%20-%20RM401%20-%20401-02-002%20-%20PACITOR%20VALUES%20ARE%20MICROFARADS%20LAST%20REFERENCE%20DESIGNATIONS.kicad_sch)
 - [19xx - RM401 - 401-02-004 - NOISE SUPPRESSOR SYSTEM SCHEMATIC.kicad_sch](KICAD/19xx%20-%20RM401%20-%20401-02-004%20-%20NOISE%20SUPPRESSOR%20SYSTEM%20SCHEMATIC.kicad_sch)
 - [RM401.kicad_sym](KICAD/RM401.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
