@@ -1,6 +1,6 @@
 # RM401 Noise Suppressor · Meter
 
-Ward-Beck Systems RM401. Wiki page: [RM401 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/RM401.html)
+Ward-Beck Systems RM401. Wiki page: [RM401 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.RM401-Noise-Suppressor/)
 
 | Folder | What is in it | Files |
 |---|---|---|

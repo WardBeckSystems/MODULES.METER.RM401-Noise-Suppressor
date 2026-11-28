@@ -1,5 +1,5 @@
 # 19xx - RM401 - 401-02-002 - PACITOR VALUES ARE MICROFARADS LAST REFERENCE DESIGNATIONS.jpg
-Wiki page: [RM401](../../../../PAGES/RM401.md)
+Wiki page: [RM401](../)
 
 
 - **Year:** unknown (unknown)

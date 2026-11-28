@@ -1,5 +1,5 @@
 # 19xx - RM401 - 401-02-004 - NOISE SUPPRESSOR SYSTEM SCHEMATIC.jpg
-Wiki page: [RM401](../../../../PAGES/RM401.md)
+Wiki page: [RM401](../)
 
 
 - **Year:** unknown (unknown)

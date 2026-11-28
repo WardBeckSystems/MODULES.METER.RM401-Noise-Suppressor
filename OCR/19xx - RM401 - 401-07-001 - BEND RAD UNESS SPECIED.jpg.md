@@ -1,5 +1,5 @@
 # 19xx - RM401 - 401-07-001 - BEND RAD UNESS SPECIED.jpg
-Wiki page: [RM401](../../../../PAGES/RM401.md)
+Wiki page: [RM401](../)
 
 
 - **Year:** unknown (unknown)

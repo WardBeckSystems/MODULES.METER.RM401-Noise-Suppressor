@@ -1,5 +1,5 @@
 # 19xx - RM401 - 131-06-001 - COMPONENT LAYOUT.jpg
-Wiki page: [RM401](../../../../PAGES/RM401.md)
+Wiki page: [RM401](../)
 
 
 - **Year:** unknown (unknown)

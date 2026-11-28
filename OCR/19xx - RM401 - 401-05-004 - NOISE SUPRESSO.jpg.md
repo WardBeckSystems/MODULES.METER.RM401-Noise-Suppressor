@@ -1,5 +1,5 @@
 # 19xx - RM401 - 401-05-004 - NOISE SUPRESSO.jpg
-Wiki page: [RM401](../../../../PAGES/RM401.md)
+Wiki page: [RM401](../)
 
 
 - **Year:** unknown (unknown)
